@@ -22,9 +22,9 @@ Next, run `./{script}.sh -h` or `./{script}.sh -help` to get list of arguments y
                                  Will be created if it does not exist.
                                  [default: $HOME/Pictures/bing-wallpapers/]
   -r --resolution <resolution>   The resolution of the image to retrieve.
-                                 Supported resolutions:
+                                 Supported resolutions: (Default: UHD)
                                  UHD 1920x1200 1920x1080 800x480 400x240
-  -w --set-wallpaper             Set downloaded picture as wallpaper (Only mac support for now).
+  -w --set-wallpaper             Set downloaded picture as wallpaper
   -h --help                      Show this screen.
   --version                      Show version.
 ```
