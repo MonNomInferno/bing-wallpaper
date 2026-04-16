@@ -8,7 +8,7 @@ Tested on MacOS 26.4
 # How to run?
 Modify permission of this file using `chmod +x {script}.sh` in terminal opened in the directory where script is present.
 
-Next, run `{script}.sh -h` or `{script}.sh -help` to get list of arguments you can use. Some are:
+Next, run `./{script}.sh -h` or `./{script}.sh -help` to get list of arguments you can use. Some are:
 
 ```Options:
   -f --force                     Force download of picture. This will overwrite
