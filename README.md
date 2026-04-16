@@ -1,7 +1,7 @@
 # bing-wallpaper
 Download and apply latest Bing Wallpaper in MacOS
 
-This script is an extension to a depreacted script by thejandroman
+This script is an extension to a deprecated script by thejandroman
 
 Tested on MacOS 26.4
 
